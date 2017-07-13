@@ -1,6 +1,4 @@
-#Single inher 
-#multiple inher
-#Method resolution order(MRO): from left to right it will scan
+
 
 
 #Inhertiance
