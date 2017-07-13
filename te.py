@@ -7,6 +7,8 @@ class Debitcard:
 		print "init from class def"
 	def status(self):
 		print "card status"
+	def addition(self):
+		print "added a method"
 
 
 class standalone:
